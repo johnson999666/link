@@ -230,3 +230,6 @@ html, body {
         display: flex;
         width: 40%;
   }
+  #posts {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
