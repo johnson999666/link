@@ -185,3 +185,19 @@ html, body {
     padding: 40px;
   }
 
+  .photo-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    margin-right: 30px;
+  }
+  
+  @media (max-width: 480px) {
+    .photo-icon {
+      width: 20px;
+      height: 20px;
+      margin-top: -10px;
+      margin-right: 5px;
+    }
+  }
+  
