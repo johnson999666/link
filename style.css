@@ -200,4 +200,20 @@ html, body {
       margin-right: 5px;
     }
   }
+  .photo-icon {
+    width: 30px;
+    height: 30px;
+    margin-top: -15px;
+    margin-right: 10px;
+  }
+  
+  @media (max-width: 480px) {
+    .photo-icon {
+      width: 20px !important;
+      height: 20px !important;
+      margin-top: -10px !important;
+      margin-right: 5px !important;
+    }
+  }
+  
   
