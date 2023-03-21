@@ -50,7 +50,7 @@ html, body {
 .search-form {
     display: flex;
     align-items: center;
-    width: 60%;
+    width: 90%;
     height: 40px;
     
     border-radius: 20px;
@@ -106,6 +106,7 @@ html, body {
     height: 80%;
     border: 1px solid black;
     border-radius: 10px;
+    
   }
     
   .photo {
@@ -177,8 +178,9 @@ html, body {
   }
   .post {
     justify-content: center;
-    
+   
     display: flex;
+   
     
   }
   #post-div {
@@ -216,4 +218,15 @@ html, body {
     }
   }
   
-  
+  .fa fa-search {
+    width: 50%;
+    background-color: royalblue;
+  }
+
+  .post2 {
+   
+        justify-content: center;
+        background-color: red;
+        display: flex;
+        width: 40%;
+  }
