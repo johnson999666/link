@@ -220,13 +220,13 @@ html, body {
   
   .fa fa-search {
     width: 50%;
-    background-color: royalblue;
+    
   }
 
   .post2 {
    
         justify-content: center;
-        background-color: red;
+      
         display: flex;
         width: 40%;
   }
