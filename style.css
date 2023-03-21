@@ -79,8 +79,8 @@ html, body {
 
   }
   #photo {
-    width: 10%;
-    height: 10%;
+    width: 5%;
+    height: 5%;
   }
   .photo {
     display: flex;
@@ -90,8 +90,7 @@ html, body {
   }
   
   #photo {
-    width: 10px;
-    height: 10px;
+    
     margin-top: 10px; /* add some margin to separate the icon from the profile picture */
   }
   .content {
@@ -111,13 +110,16 @@ html, body {
     
   .photo {
     margin-top: 10px; /* add some margin to separate the icon from the profile picture */
+    display: flex;
+    justify-content: center;
+
   }
   
   #photo {
-    width: 50px;
-    height: 50px;
-    margin-left: 60px;
-    margin-right: 60px;
+    width: 40px;
+    height: 40px;
+    margin-left: 10vh;
+    margin-right: 10vh;
   }
   .sticky-bar {
     position: sticky;
